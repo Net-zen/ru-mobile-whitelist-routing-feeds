@@ -1,0 +1,17 @@
+{
+  "repository": "Net-zen/ru-mobile-whitelist-routing",
+  "base_url": "https://raw.githubusercontent.com/Net-zen/ru-mobile-whitelist-routing-feeds/main",
+  "generated_at": 1795348613,
+  "sources": {
+    "domains": "https://raw.githubusercontent.com/hxehex/russia-mobile-internet-whitelist/main/whitelist.txt",
+    "ips": "https://raw.githubusercontent.com/hxehex/russia-mobile-internet-whitelist/main/ipwhitelist.txt",
+    "cidrs": "https://raw.githubusercontent.com/hxehex/russia-mobile-internet-whitelist/main/cidrwhitelist.txt"
+  },
+  "domain_count": 910,
+  "invalid_domain_count": 0,
+  "individual_ip_count": 141664,
+  "cidr_count": 30228,
+  "unique_network_count": 30222,
+  "ipv4_network_count": 30222,
+  "ipv6_network_count": 0
+}
