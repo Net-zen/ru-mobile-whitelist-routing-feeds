@@ -1,7 +1,7 @@
 {
   "repository": "Net-zen/ru-mobile-whitelist-routing",
   "base_url": "https://raw.githubusercontent.com/Net-zen/ru-mobile-whitelist-routing-feeds/main",
-  "generated_at": 1795873607,
+  "generated_at": 1795879667,
   "sources": {
     "domains": "https://raw.githubusercontent.com/hxehex/russia-mobile-internet-whitelist/main/whitelist.txt",
     "ips": "https://raw.githubusercontent.com/hxehex/russia-mobile-internet-whitelist/main/ipwhitelist.txt",
