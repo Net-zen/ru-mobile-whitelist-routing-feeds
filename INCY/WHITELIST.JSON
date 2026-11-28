@@ -10,7 +10,7 @@
   "DomesticDNSIP": "77.88.8.8",
   "Geoipurl": "https://raw.githubusercontent.com/Net-zen/ru-mobile-whitelist-routing-feeds/main/geoip.dat",
   "Geositeurl": "https://raw.githubusercontent.com/Net-zen/ru-mobile-whitelist-routing-feeds/main/geosite.dat",
-  "LastUpdated": "1795873216",
+  "LastUpdated": "1795873656",
   "DnsHosts": {
     "dns.google": "8.8.8.8"
   },
